@@ -1,0 +1,7 @@
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\bin\Debug\ProjectC1console.exe.config
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\bin\Debug\ProjectC1console.exe
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\bin\Debug\ProjectC1console.pdb
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\obj\Debug\ProjectC1console.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\obj\Debug\ProjectC1console.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\obj\Debug\ProjectC1console.exe
+C:\Users\Kate\source\repos\ProjectC1console\ProjectC1console\obj\Debug\ProjectC1console.pdb
